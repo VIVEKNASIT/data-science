@@ -1,0 +1,7 @@
+__pycache__
+*.npy
+*.json
+*.pdf
+*.pptx
+.vscode
+tmp_tensorflow
